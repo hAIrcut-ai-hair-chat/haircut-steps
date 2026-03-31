@@ -1,5 +1,5 @@
 # Projeto Integrador - Modelo
-*(Coloque aqui o nome do seu projeto.)*
+*(Haircut Ai - Your ai hair chat)*
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 *(Coloque aqui uma breve descrição do seu projeto.)*
@@ -9,7 +9,7 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- [Kauã Martins Baarros]
+- [Kauã Martins Barros](github.com/kauabarros-24)
 
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
